@@ -1,0 +1,20 @@
+{
+  "Count": {
+    "0": {
+      "size": 219627471,
+      "items": 208898,
+      "mutations": 208898,
+      "deletions": 0,
+      "collections": {
+        "8": {
+          "Mutations": 138827,
+          "Deletions": 0
+        },
+        "9": {
+          "Mutations": 70071,
+          "Deletions": 0
+        }
+      }
+    }
+  }
+}
